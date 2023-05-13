@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8C704D</color>
+    <color name="colorPrimaryDark">#8C704D</color>
+    <color name="colorAccent">#8C704D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="militar1">#73BF94</color>
+    <color name="militar2">#387347</color>
+    <color name="militar3">#8C704D</color>
+</resources>
